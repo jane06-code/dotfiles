@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = janeeme23@gmail.com
+	name = jane eme
